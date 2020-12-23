@@ -9,6 +9,9 @@ Jan 8
 Jan 9
 - 2009: Block 1 is mined, and Bitcoin mining commences in earnest. https://www.investopedia.com/terms/b/bitcoin.asp
 
+Mar 4
+- 2014: After a Newsweek article suggests Dorian Nakamoto is the creator of Bitcoin, journalists camp outside his house and then chase him down the highway when one of them takes him out for sushi lunch. https://www.theverge.com/2014/3/6/5479050/press-chases-alleged-bitcoin-creator-through-los-angeles
+
 May 11
 - 2020: Third Bitcoin halving. Block reward drops from 12.5 BTC to 6.25 BTC. https://en.bitcoin.it/wiki/Controlled_supply
 
