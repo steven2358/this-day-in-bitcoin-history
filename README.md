@@ -9,6 +9,12 @@ Jan 8
 Jan 9
 - 2009: Block 1 is mined, and Bitcoin mining commences in earnest. https://www.investopedia.com/terms/b/bitcoin.asp
 
+Feb 24
+- 2014: Two-Bit Idiot breaks the news of Mt. Gox' impending collapse, after 744,408 BTC of their funds have gone missing. https://web.archive.org/web/20140915000000*/https://two-bit-idiot.tumblr.com/post/77745633839/bitcoins-apocalyptic-moment-mt-gox-may-have
+
+Feb 28
+- 2014: MT. Gox files for bankruptcy. https://www.reuters.com/article/us-bitcoin-mtgox-bankruptcy-idUSBREA1R0FX20140228
+
 Mar 6
 - 2014: After a Newsweek article suggests Dorian Nakamoto is the creator of Bitcoin, journalists camp outside his house and then chase him down the highway when one of them takes him out for sushi lunch. https://www.theverge.com/2014/3/6/5479050/press-chases-alleged-bitcoin-creator-through-los-angeles
 
@@ -36,5 +42,3 @@ Dec 13
 Dec 18
 - 2013: The term hodling is coined. #hodl https://bitcointalk.org/index.php?topic=375643.0
 - 2017: Block #500,000 is mined. https://www.blockchain.com/btc/block/00000000000000000024fb37364cbf81fd49cc2d51c09c75c35433c3a1945d04
-
-
