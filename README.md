@@ -30,6 +30,9 @@ Jul 9
 Aug 18
 - 2008: The domain name bitcoin.org is registered. https://www.investopedia.com/terms/b/bitcoin.asp
 
+Sept 7
+- 2021: El Salvador becomes the first country to make bitcoin legal tender. https://www.reuters.com/business/finance/el-salvador-leads-world-into-cryptocurrency-bitcoin-legal-tender-2021-09-07/
+
 Oct 31
 - 2008: Someone using the name Satoshi Nakamoto makes an announcement on The Cryptography Mailing list at metzdowd.com: "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. The paper is available at http://www.bitcoin.org/bitcoin.pdf." https://www.investopedia.com/terms/b/bitcoin.asp
 
