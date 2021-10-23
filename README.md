@@ -52,3 +52,6 @@ Dec 13
 Dec 18
 - 2013: The term hodling is coined. #hodl [Bitcointalk.org](https://bitcointalk.org/index.php?topic=375643.0).
 - 2017: Block #500,000 is mined. [Blochchain.com](https://www.blockchain.com/btc/block/00000000000000000024fb37364cbf81fd49cc2d51c09c75c35433c3a1945d04).
+
+Dec 19
+- 2010: The Bitcoin GitHub goes online. [GitHub](https://github.com/bitcoin/bitcoin) via [RIZZO](https://twitter.com/pete_rizzo_/status/1340299654408355842).
