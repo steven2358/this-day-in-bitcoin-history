@@ -36,6 +36,10 @@ Sept 7
 Oct 5
 - 2009: Bitcoin user NewLibertyStandard calculates the first price of BTC. [New Liberty Standard on Wayback Machine]( https://web.archive.org/web/20131031064421/http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate) via [RIZZO](https://twitter.com/pete_rizzo_/status/1445347268828270599).
 
+Oct 6
+- 2014: The most notorious BTC bear abruptly sells 30K BTC. Bulls answer the call, holding $300 and avoiding the breach. [Franklyn Richards on YouTube](https://www.youtube.com/watch?v=ulimNuaKIQM)
+via [RIZZO](https://twitter.com/pete_rizzo_/status/1445773560975265804).
+
 Oct 31
 - 2008: Someone using the name Satoshi Nakamoto makes an announcement on The Cryptography Mailing list at metzdowd.com: "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. The paper is available at http://www.bitcoin.org/bitcoin.pdf." [Investopedia](https://www.investopedia.com/terms/b/bitcoin.asp).
 
