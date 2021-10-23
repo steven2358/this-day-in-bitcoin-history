@@ -33,6 +33,9 @@ Aug 18
 Sept 7
 - 2021: El Salvador becomes the first country to make bitcoin legal tender. https://www.reuters.com/business/finance/el-salvador-leads-world-into-cryptocurrency-bitcoin-legal-tender-2021-09-07/
 
+Oct 5
+- 2009: Bitcoin user NewLibertyStandard calculates the first price of BTC [New Liberty Standard on Wayback Machine]( https://web.archive.org/web/20131031064421/http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate) via [RIZZO](https://twitter.com/pete_rizzo_/status/1445347268828270599)
+
 Oct 31
 - 2008: Someone using the name Satoshi Nakamoto makes an announcement on The Cryptography Mailing list at metzdowd.com: "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party. The paper is available at http://www.bitcoin.org/bitcoin.pdf." https://www.investopedia.com/terms/b/bitcoin.asp
 
