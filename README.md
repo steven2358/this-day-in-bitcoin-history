@@ -9,6 +9,9 @@ Jan 8
 Jan 9
 - 2009: Block 1 is mined, and Bitcoin mining commences in earnest. [Investopedia](https://www.investopedia.com/terms/b/bitcoin.asp).
 
+Jan 12
+- 2009: The first Bitcoin transaction took place when Satoshi Nakamoto sent 10 BTC to Hal Finney. [Blockchain.com](https://www.blockchain.com/btc/tx/f4184fc596403b9d638783cf57adfe4c75c605f6356fbc91338530e9831e9e16).
+
 Feb 24
 - 2014: Two-Bit Idiot breaks the news of Mt. Gox' impending collapse, after 744,408 BTC of their funds have gone missing. [Two-Bit Idiot's Tumblr on Wayback Machine]( https://web.archive.org/web/20140915000000*/https://two-bit-idiot.tumblr.com/post/77745633839/bitcoins-apocalyptic-moment-mt-gox-may-have).
 
